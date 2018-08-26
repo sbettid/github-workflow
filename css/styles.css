@@ -1,0 +1,42 @@
+body{
+    font-size: 100%;
+}
+.row{
+    display: table;
+    width: 100%;
+
+}
+
+.side{
+    display: table-cell;
+    height: 100%;
+    width: 20%;
+    background-color: #DAAD86;
+    opacity: 1;
+}
+
+.center{
+    display: table-cell;
+    height: 100%;
+    width: 30%;
+    background-color: #659DBD;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+#profile{
+    width: 50%;
+    display: block;
+    alignment: left;
+    margin-right: auto;
+    margin-left: auto;
+}
+.text{
+    color:white;
+    font-family: Calibri;
+    font-size: 1.3em;
+    font-style: italic;
+}
