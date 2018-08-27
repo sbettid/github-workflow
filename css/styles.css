@@ -26,17 +26,30 @@ h1{
     color: white;
 }
 
-#profile{
-    width: 40%;
-    display: block;
-    alignment: left;
-    margin-right: auto;
-    margin-left: auto;
-}
 .text{
     color:white;
     font-family: Calibri;
     font-size: 1.3em;
     font-style: italic;
     text-align: center;
+}
+
+#profile{
+    width: 40%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#team{
+    width: 50%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+#uni{
+    width: 20%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
 }
